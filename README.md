@@ -1,2 +1,3 @@
 # hello-world
-Test repository
+
+I play cricket, study Computer Science at AUT and am jobless
